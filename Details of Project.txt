@@ -1,0 +1,12 @@
+ EDA on Supermarket Sales Dataset
+
+This project performs Exploratory Data Analysis (EDA) on a real-world supermarket sales dataset using Python.
+
+## Tools Used
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
+
+## Key Insights
+- Sales trends by category and gender
+- Peak sales times
+- Relationship between unit price and profit
