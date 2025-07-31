@@ -7,6 +7,6 @@ This project performs Exploratory Data Analysis (EDA) on a real-world supermarke
 - Jupyter Notebook
 
 ## Key Insights
-- Sales trends by category and gender
+- Sales trends by category and Sub Category
 - Peak sales times
-- Relationship between unit price and profit
+- Relationship between Sales and profit
